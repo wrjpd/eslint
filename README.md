@@ -64,3 +64,7 @@ npm i -D eslint
 
 - Yes
 - No
+
+## Fix all files
+
+./node_modules/.bin/eslint --fix .
